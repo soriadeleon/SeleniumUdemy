@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="google" type="Cucumber" />
+      <mapping pattern=".feature" type="Manifest" />
+      <mapping pattern="Google" type="Substeps step definition" />
+      <mapping pattern="google" type="Substeps" />
+    </extensionMap>
+  </component>
+</application>
