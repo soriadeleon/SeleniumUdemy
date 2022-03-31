@@ -1,0 +1,8 @@
+Feature: Probar busqueda en Google
+
+Scenario: Buscar algo en Google
+
+    Given navega a Google
+    When  busco algo
+    And   pulso buscar
+    Then  obtengo resultados
