@@ -1,9 +1,10 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="google" type="Cucumber" />
       <mapping pattern=".feature" type="Manifest" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern=".feature" approved="true" type="Cucumber" />
       <mapping pattern="Google" type="Substeps step definition" />
       <mapping pattern="google" type="Substeps" />
     </extensionMap>
